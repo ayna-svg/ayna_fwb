@@ -1,6 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .card {
+      border: none;
+      background-color: #fff;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-control {
+      border-radius: 0.5rem;
+    }
+
+    .form-control:focus {
+      border-color: #28a745;
+      box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    }
+
+    .btn-success {
+      border-radius: 0.5rem;
+      font-weight: bold;
+    }
+
+    .page-title .heading {
+      background: linear-gradient(135deg, #28a745, #218838);
+      color: #fff;
+      padding: 1rem 0;
+      border-radius: 0 0 2rem 2rem;
+    }
+
+    .page-title h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+
+    .page-title p {
+      font-size: 1.1rem;
+    }
+  </style>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
@@ -14,7 +64,7 @@
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
               <h1>Daftar Akun</h1>
-              <p class="mb-0">Silakan buat akun untuk dapat melaporkan dan memantau kondisi sampah di lingkungan sekitar Anda.</p>
+              <p class="mb-0">Buat akun Anda dan mulailah memasarkan pupuk hasil produksi sendiri atau temukan pupuk berkualitas dari penjual terpercaya</p>
             </div>
           </div>
         </div>
@@ -58,4 +108,3 @@
     </main>
 </body>
 </html>
-@endsection

@@ -15,40 +15,40 @@
         <div class="carousel-item active">
           <img src="assets/img/hero_1.jpg" alt="">
           <div class="carousel-container">
-            <h2>Farming is the best solution of worlds starvation</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h2>Mulai Pertanian Hebatmu dari Sini</h2>
+            <p>Jual dan beli pupuk berkualitas langsung dari tangan pertama. Ciptakan hasil panen terbaik bersama kami</p>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
           <img src="assets/img/hero_2.jpg" alt="">
           <div class="carousel-container">
-            <h2>Organic vegetables is good for health</h2>
-            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>
+            <h2>Pupuk Organik, Pilihan Sehat untuk Tanaman</h2>
+            <p>Dukung pertanian sehat dengan pupuk organik ramah lingkungan. Cocok untuk sayuran, buah, dan tanaman hias</p>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
           <img src="assets/img/hero_3.jpg" alt="">
           <div class="carousel-container">
-            <h2>Providing Fresh Produce Every Single Day</h2>
-            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+            <h2>Pasokan Pupuk Segar Setiap Hari</h2>
+            <p>Kami menyediakan berbagai jenis pupuk berkualitas yang selalu siap dikirim kapan saja sesuai kebutuhan pertanian Anda</p>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
           <img src="assets/img/hero_4.jpg" alt="">
           <div class="carousel-container">
-            <h2>Farming as a Passione</h2>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius.</p>
+            <h2>Pertanian adalah Gairah Kami</h2>
+            <p>Bangun pertanian berkelanjutan dengan pupuk unggulan dari petani dan produsen lokal terbaik</p>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
           <img src="assets/img/hero_5.jpg" alt="">
           <div class="carousel-container">
-            <h2>Good Food For All</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h2>Pupuk Berkualitas untuk Hasil Panen Lebih Baik</h2>
+            <p>Dapatkan pupuk pilihan untuk meningkatkan produktivitas dan kualitas hasil pertanian Anda</p>
           </div>
         </div><!-- End Carousel Item -->
 
@@ -71,8 +71,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>SERVICES</h2>
-        <p>Providing Fresh Produce Every Single Day</p>
+        <h2>Layanan Kami</h2>
+        <p>Kami menyediakan berbagai jenis pupuk berkualitas untuk mendukung pertanian yang lebih subur, ramah lingkungan, dan berkelanjutan</p>
       </div><!-- End Section Title -->
       <div class="content">
         <div class="container">
@@ -89,10 +89,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Planting</h3>
+                  <h3 class="service-heading">Pupuk</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Menyediakan berbagai jenis pupuk berkualitas tinggi, mulai dari pupuk organik hingga kimia, untuk menunjang produktivitas pertanian Anda
                   </p>
                 </div>
               </div>
@@ -110,10 +109,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Mulching</h3>
+                  <h3 class="service-heading">Penutupan Permukaan Tanah</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Teknik menutup permukaan tanah dengan bahan organik atau non-organik guna menjaga kelembaban, mengurangi penguapan, dan meningkatkan efisiensi penggunaan pupuk
                   </p>
                 </div>
               </div>
@@ -131,10 +129,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Plowing</h3>
+                  <h3 class="service-heading">Penggemburan Tanah</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Merupakan proses penting dalam mempersiapkan lahan, di mana tanah digemburkan untuk meningkatkan penyerapan pupuk dan nutrisi. Langkah ini mendukung pertumbuhan tanaman yang lebih optimal
                   </p>
                 </div>
               </div>
@@ -150,10 +147,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Mowing</h3>
+                  <h3 class="service-heading">Pemangkasan Rumput</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Dilakukan untuk menjaga kebersihan lahan dan mengurangi persaingan nutrisi antara tanaman utama dan gulma. Membantu efektivitas penyerapan pupuk oleh tanaman
                   </p>
                 </div>
               </div>
@@ -171,10 +167,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Seeding</h3>
+                  <h3 class="service-heading">Penanaman Benih </h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Proses menabur benih ke dalam tanah yang telah dipersiapkan dan diberi pupuk dasar. Tahap ini penting untuk memastikan benih mendapatkan nutrisi yang cukup sejak awal pertumbuhan
                   </p>
                 </div>
               </div>
@@ -191,10 +186,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Fresh Vegetables</h3>
+                  <h3 class="service-heading">Sayuran Segar</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Hasil panen dari tanaman yang dirawat dengan baik, termasuk pemberian pupuk secara teratur. Sayuran segar menunjukkan keberhasilan penggunaan pupuk yang tepat
                   </p>
                 </div>
               </div>
@@ -211,10 +205,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Watering</h3>
+                  <h3 class="service-heading">Penyiraman</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Memberikan air secara rutin untuk menjaga kelembapan tanah dan membantu larutan pupuk terserap dengan maksimal oleh akar tanaman
                   </p>
                 </div>
               </div>
@@ -231,10 +224,9 @@
                   </svg>
                 </div>
                 <div class="service-item-content">
-                  <h3 class="service-heading">Vegetable selling</h3>
+                  <h3 class="service-heading">Penjualan Sayuran</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                  Tahap akhir dari proses pertanian, di mana hasil panen seperti sayuran dijual ke pasar. Penggunaan pupuk yang baik meningkatkan kualitas hasil panen sehingga meningkatkan nilai jual produk
                   </p>
                 </div>
               </div>
@@ -254,36 +246,34 @@
               <img src="assets/img/img_long_5.jpg" alt="Image " class="img-fluid img-overlap" data-aos="zoom-out">
             </div>
             <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="content-subtitle text-white opacity-50">Why Choose Us</h3>
+              <h3 class="content-subtitle text-white opacity-50">Mengapa Memilih Kami?</h3>
               <h2 class="content-title mb-4">
-                More than <strong>50 year experience</strong> in agriculture
-                industry
+              Lebih dari <strong>50 Tahun Pengalaman </strong> di Industri Pertanian
               </h2>
               <p class="opacity-50">
-                Reprehenderit, odio laboriosam? Blanditiis quae ullam quasi illum
-                minima nostrum perspiciatis error consequatur sit nulla.
+              Komitmen dan Kualitas Tanpa Kompromi, 
+              Kami memahami bahwa setiap lahan memiliki kebutuhan yang unik. Itulah sebabnya kami terus berinovasi menghadirkan pupuk dengan formula terbaik—agar petani mendapatkan hasil maksimal tanpa mengorbankan kualitas tanah maupun lingkungan.
               </p>
-
               <div class="row my-5">
                 <div class="col-lg-12 d-flex align-items-start mb-4">
                   <i class="bi bi-cloud-rain me-4 display-6"></i>
                   <div>
-                    <h4 class="m-0 h5 text-white">Plants needs rain</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
+                    <h4 class="m-0 h5 text-white">Tanaman Butuh Hujan & Pupuk</h4>
+                    <p class="text-white opacity-50">Air saja tak cukup pupuk kami bantu tanaman tumbuh subur.</p>
                   </div>
                 </div>
                 <div class="col-lg-12 d-flex align-items-start mb-4">
                   <i class="bi bi-heart me-4 display-6"></i>
                   <div>
-                    <h4 class="m-0 h5 text-white">Love organic foods</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
+                    <h4 class="m-0 h5 text-white">Cinta Makanan Organik</h4>
+                    <p class="text-white opacity-50">Gunakan pupuk organik untuk hasil sehat & alami.</p>
                   </div>
                 </div>
                 <div class="col-lg-12 d-flex align-items-start">
                   <i class="bi bi-shop me-4 display-6"></i>
                   <div>
-                    <h4 class="m-0 h5 text-white">Sell vegies</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
+                    <h4 class="m-0 h5 text-white"> Jual Sayur, Untung Maksimal</h4>
+                    <p class="text-white opacity-50">Panen lebih banyak, kualitas lebih baik, untung lebih besar.</p>
                   </div>
                 </div>
               </div>
@@ -305,20 +295,17 @@
             </a>
           </div>
           <div class="col-lg-5 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-            <h2 class="content-title mb-4">Plants Make Life Better</h2>
+            <h2 class="content-title mb-4">Tanaman Membuat Hidup Lebih Baik</h2>
             <p class="mb-4">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              necessitatibus placeat, atque qui voluptatem velit explicabo vitae
-              repellendus architecto provident nisi ullam minus asperiores commodi!
-              Tenetur, repellat aliquam nihil illo.
+            Tanaman tidak hanya memperindah lingkungan, tetapi juga memberikan manfaat besar bagi kesehatan dan kualitas hidup. Dengan perawatan yang tepat dan penggunaan pupuk yang sesuai, tanaman tumbuh subur dan memberikan dampak positif bagi manusia dan alam.
             </p>
             <ul class="list-unstyled list-check">
-              <li>Lorem ipsum dolor sit amet</li>
-              <li>Velit explicabo vitae repellendu</li>
-              <li>Repellat aliquam nihil illo</li>
+              <li>Tanaman yang sehat berasal dari perawatan yang konsisten</li>
+              <li>Pemupukan yang tepat mendukung pertumbuhan maksimal</li>
+              <li>Tanaman subur, hidup pun terasa lebih sejuk dan menyenangkan</li>
             </ul>
 
-            <p><a href="#" class="btn-cta">Get in touch</a></p>
+            <p><a href="#" class="btn-cta">Hubungi Kami</a></p>
           </div>
         </div>
       </div>

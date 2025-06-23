@@ -15,19 +15,19 @@ class RegisController extends Controller
      */
     public function tampil_regis()
     {
-        return view('tes');
+        return view('autentikasi.regis_bootstrap');
     }
 
     public function kirim_data(Request $request)
     {
         $request->validate([
             'name' =>'required|string|max:255',
-            'email'=>'required|string|unique:user',
+            'email'=>'required|string|unique:users',
             'password' =>'required|string|min:8|confirmed',
         ]);
         $user = User::create([
-            'name' =>'$required'->name,
-            'email' =>'$required' ->email,
+            'name' =>$request->name,
+            'email' =>$request ->email,
             'password'=>Hash::make($request->password),
             'role'=>'pengguna',
         ]);

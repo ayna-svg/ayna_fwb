@@ -19,7 +19,7 @@ return new class extends Migration
             $table->enum('status', ['diproses', 'dikirim', 'selesai', 'dibatalkan'])->default('diproses');
             $table->timestamps();
         
-            $table->foreign('id_pembeli')->references('id_user')->on('users1')->onDelete('cascade');
+            $table->foreign('id_pembeli')->references('id_user')->on('users')->onDelete('cascade');
         });
         
     }
